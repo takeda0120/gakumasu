@@ -14,7 +14,7 @@ def last(score):
     
 def hard(rank,para):
     ax = para
-    print(ax)
+    #print(ax)
     if 5000 * 0.3 > ax:#1500
         x = ax / 0.3
 
