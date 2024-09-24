@@ -34,8 +34,8 @@ def hard(rank,para):
         x = (ax - 5000 * 0.3 - 5000 * 0.15 - 10000 * 0.08 - 10000 * 0.04 - 10000 * 0.02 + 40000 * 0.01) / 0.01
     return int(x)
 
-#p_Vo, p_Da, p_Vis = input("半角{vocal,dance,vis}>>>").split(",")
-p_Vo, p_Da, p_Vis = 1500, 1200, 1000
+p_Vo, p_Da, p_Vis = input("半角{vocal,dance,vis}>>>").split(",")
+#p_Vo, p_Da, p_Vis = 1500, 1200, 1000
 sum_para = last(p_Vo) + last(p_Da) + last(p_Vis)
 all_1 = sum_para * 2.3 + 1700
 needs = {

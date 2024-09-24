@@ -15,3 +15,33 @@ rank:
   S: 13000
   A+: 11500
   A: 10000
+
+card1:
+  no_plus:
+    LR: 30
+    R: 45
+    L_SR: 75
+    SR: 105
+    SSR: 150
+    SU: 96
+  plus:
+    LR: 39
+    R: 60
+    L_SR: 102
+    SR: 141
+    SSR: 204
+    SU: 126
+
+card2:
+    LR: 30
+    R: 45
+    L_SR: 75
+    SR: 105
+    SSR: 150
+    SU: 96
+    pLR: 39
+    pR: 60
+    pL_SR: 102
+    pSR: 141
+    pSSR: 204
+    pSU: 126
