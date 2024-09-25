@@ -33,15 +33,15 @@ card1:
     SU: 126
 
 card2:
-    LR: 30
-    R: 45
-    L_SR: 75
-    SR: 105
-    SSR: 150
-    SU: 96
-    pLR: 39
-    pR: 60
-    pL_SR: 102
-    pSR: 141
-    pSSR: 204
-    pSU: 126
+  LR: 30
+  R: 45
+  L_SR: 75
+  SR: 105
+  SSR: 150
+  SU: 96
+  pLR: 39
+  pR: 60
+  pL_SR: 102
+  pSR: 141
+  pSSR: 204
+  pSU: 126

@@ -16,5 +16,3 @@ for i in cd.values():
     print(i)
 
 
-for i in range(cc):
-    pass
